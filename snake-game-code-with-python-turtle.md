@@ -136,7 +136,7 @@ def gameOver():
 SCREEN.onkeypress(up, "w")
 SCREEN.onkeypress(down, "s")
 SCREEN.onkeypress(right, "d")
-SCREEN.onkeypress(left, "a")aw
+SCREEN.onkeypress(left, "a")
 SCREEN.listen()
 loop() #run the main loop
 turtle.mainloop()
